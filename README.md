@@ -14,6 +14,7 @@
 在tasks增加日志解析规则和处理规则
 
 在proc.py文件增加task
+
     demo = Demo.Demo()
     proc.tasks.append(demo)
 
